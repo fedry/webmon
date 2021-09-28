@@ -40,19 +40,19 @@
     "url": "https://ydpmti.org",
     "icon": "https://favicons.githubusercontent.com/ydpmti.org",
     "slug": "ydpmti",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3052,
-    "timeDay": 4396,
-    "timeWeek": 3052,
-    "timeMonth": 3052,
-    "timeYear": 3052,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 2702,
+    "timeDay": 3364,
+    "timeWeek": 2702,
+    "timeMonth": 2702,
+    "timeYear": 2702,
     "dailyMinutesDown": {
-      "2021-09-28": 0
+      "2021-09-28": 10
     }
   },
   {
