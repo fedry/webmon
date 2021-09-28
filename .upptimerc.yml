@@ -9,6 +9,8 @@ sites:
     url: https://taotsm.org
   - name: YDPMTI
     url: https://ydpmti.org
+    assignees:
+      - fedry
   - name: Penzstar
     url: https://penzstar.com
 
