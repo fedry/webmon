@@ -13,7 +13,11 @@ sites:
       - fedry
   - name: Penzstar
     url: https://penzstar.com
-
+  - name: Kemilau
+    url: https://kemilau.net
+    assignees:
+      - fedry
+    
 status-website:
   baseUrl: /webmon
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
