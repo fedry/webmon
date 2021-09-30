@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3473,
-    "timeDay": 3713,
+    "timeDay": 3702,
     "timeWeek": 3473,
     "timeMonth": 3473,
     "timeYear": 3473,
@@ -76,19 +76,19 @@
     "url": "https://kemilau.net",
     "icon": "https://favicons.githubusercontent.com/kemilau.net",
     "slug": "kemilau",
-    "status": "down",
-    "uptime": "75.76%",
-    "uptimeDay": "75.76%",
-    "uptimeWeek": "75.76%",
-    "uptimeMonth": "75.76%",
-    "uptimeYear": "75.76%",
-    "time": 1185,
-    "timeDay": 1185,
-    "timeWeek": 1185,
-    "timeMonth": 1185,
-    "timeYear": 1185,
+    "status": "up",
+    "uptime": "68.31%",
+    "uptimeDay": "68.31%",
+    "uptimeWeek": "68.31%",
+    "uptimeMonth": "68.31%",
+    "uptimeYear": "68.31%",
+    "time": 1095,
+    "timeDay": 1095,
+    "timeWeek": 1095,
+    "timeMonth": 1095,
+    "timeYear": 1095,
     "dailyMinutesDown": {
-      "2021-09-30": 22
+      "2021-09-30": 32
     }
   }
 ]
