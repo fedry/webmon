@@ -4,19 +4,19 @@
     "url": "https://passiondesigns.co.id",
     "icon": "https://favicons.githubusercontent.com/passiondesigns.co.id",
     "slug": "passion-designs",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3485,
-    "timeDay": 3586,
-    "timeWeek": 3485,
-    "timeMonth": 3485,
-    "timeYear": 3485,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 3512,
+    "timeDay": 3667,
+    "timeWeek": 3512,
+    "timeMonth": 3512,
+    "timeYear": 3512,
     "dailyMinutesDown": {
-      "2021-10-01": 1
+      "2021-10-01": 20
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/kemilau.net",
     "slug": "kemilau",
     "status": "down",
-    "uptime": "7.24%",
+    "uptime": "7.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "7.24%",
-    "uptimeMonth": "7.24%",
-    "uptimeYear": "7.24%",
+    "uptimeWeek": "7.16%",
+    "uptimeMonth": "7.16%",
+    "uptimeYear": "7.16%",
     "time": 1067,
     "timeDay": 1050,
     "timeWeek": 1067,
     "timeMonth": 1067,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2021-10-01": 543,
+      "2021-10-01": 563,
       "2021-09-30": 1076
     }
   }
