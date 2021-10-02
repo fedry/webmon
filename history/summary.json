@@ -4,9 +4,9 @@
     "url": "https://passiondesigns.co.id",
     "icon": "https://favicons.githubusercontent.com/passiondesigns.co.id",
     "slug": "passion-designs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "98.59%",
+    "uptimeDay": "98.57%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.71%",
@@ -16,6 +16,7 @@
     "timeMonth": 3379,
     "timeYear": 3379,
     "dailyMinutesDown": {
+      "2021-10-02": 0,
       "2021-10-01": 20
     }
   },
@@ -25,19 +26,17 @@
     "icon": "https://favicons.githubusercontent.com/taotsm.org",
     "slug": "tao-tsm",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2825,
     "timeDay": 3442,
     "timeWeek": 2825,
     "timeMonth": 2825,
     "timeYear": 2825,
-    "dailyMinutesDown": {
-      "2021-10-02": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "YDPMTI",
@@ -83,18 +82,18 @@
     "icon": "https://favicons.githubusercontent.com/kemilau.net",
     "slug": "kemilau",
     "status": "down",
-    "uptime": "4.05%",
+    "uptime": "3.99%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "4.05%",
-    "uptimeMonth": "4.05%",
-    "uptimeYear": "4.05%",
+    "uptimeWeek": "3.99%",
+    "uptimeMonth": "3.99%",
+    "uptimeYear": "3.99%",
     "time": 1058,
     "timeDay": 988,
     "timeWeek": 1058,
     "timeMonth": 1058,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2021-10-02": 480,
+      "2021-10-02": 522,
       "2021-10-01": 1440,
       "2021-09-30": 1076
     }
