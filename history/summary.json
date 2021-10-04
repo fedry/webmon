@@ -62,19 +62,19 @@
     "url": "https://penzstar.com",
     "icon": "https://favicons.githubusercontent.com/penzstar.com",
     "slug": "penzstar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 7178,
-    "timeDay": 13391,
-    "timeWeek": 7178,
-    "timeMonth": 7178,
-    "timeYear": 7178,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 6951,
+    "timeDay": 8586,
+    "timeWeek": 6951,
+    "timeMonth": 6951,
+    "timeYear": 6951,
     "dailyMinutesDown": {
-      "2021-10-04": 0
+      "2021-10-04": 8
     }
   },
   {
@@ -94,7 +94,7 @@
     "timeMonth": 1114,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2021-10-04": 349,
+      "2021-10-04": 357,
       "2021-10-03": 1440,
       "2021-10-02": 1440,
       "2021-10-01": 1440,
