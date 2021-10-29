@@ -25,11 +25,11 @@
     "url": "https://taotsm.org",
     "icon": "https://favicons.githubusercontent.com/taotsm.org",
     "slug": "tao-tsm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.81%",
     "time": 5687,
     "timeDay": 3591,
@@ -37,6 +37,7 @@
     "timeMonth": 5941,
     "timeYear": 5687,
     "dailyMinutesDown": {
+      "2021-10-29": 1,
       "2021-10-19": 36,
       "2021-10-07": 32,
       "2021-10-04": 17
@@ -68,9 +69,9 @@
     "url": "https://penzstar.com",
     "icon": "https://favicons.githubusercontent.com/penzstar.com",
     "slug": "penzstar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -80,6 +81,7 @@
     "timeMonth": 5669,
     "timeYear": 5419,
     "dailyMinutesDown": {
+      "2021-10-29": 0,
       "2021-10-04": 17
     }
   },
@@ -100,7 +102,7 @@
     "timeMonth": 974,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2021-10-29": 53,
+      "2021-10-29": 236,
       "2021-10-28": 1440,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
